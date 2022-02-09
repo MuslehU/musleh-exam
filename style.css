@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PSD to HTML XM</title>
+  <!--google fonts-->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+
+
+
+
+    <!--Font Awesome-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!--Theme css-->
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="logo">
+        <img src="img/logo.png" alt="logo">
+        
+      </div>
+      <div class="menu">
+      <nav>
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">HOW IT WORKS</a></li>
+          <li><a href="#">DISCOVER A PROJECT</a></li>
+          <li><a href="#">BLOG</a></li>
+          <li><a href="#">FIND OUT MORE</a></li>
+        </ul>
+      </nav>
+      
+    </div>
+    </div>
+  </header>
+  <section class="banner">
+    <div class="banner-overlay">
+      <div class="image-hover">
+          <h2>Intellectual Property has the Shelf Life</h2>
+            <p>of a Banana.</p>
+          <button type="button" class="btn-one">Become a Member</button>
+          
+      </div>
+    </div>
+    
+  </section>
+  <section class="icon">
+    <div class="container">
+      <div class="icon-logo">
+        <img src="img/icon.png">
+        
+      </div>
+      <div class="ic">
+      <div class="icon-con-1">
+          <p>Our work is the presentation<br> of our capabilities.</p>
+          
+        </div>
+      <div class="icon-con">  
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+      </div> 
+      <div class="icon-con-2">
+        <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        
+      </div>
+    </div>
+      
+    </div>
+    
+  </section>
+  <section class="port">
+    <div class="container">
+      <div class="port-1">
+        <div class="p-logo">
+          <img src="img/properties.png" alt="logo">
+          
+        </div>
+        <div class="p-con">
+          <h4>Find Properties</h4>
+          <p>Sign up to browse the porfolio. Your journey to becoming a real estate baron starts here.</p>
+          <div class="b">
+          <button type="button" class="btn-2">Become a Member</button>
+           </div>
+          
+        </div>
+        
+      </div>
+      <div class="port-2">
+        <div class="p-logo-1">
+          <img src="img/buyer.png" alt="logo">
+          
+        </div>
+        <div class="p-con-1">
+          <h4>Find Buyers</h4>
+          <p>Sign up to browse the porfolio. Your journey to becoming a real estate baron starts here.</p>
+        <div class="b">
+          <button type="button" class="btn-3">Submit your project</button>
+        </div>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+    
+  </section>
+  <section class="joy">
+    <div class="container">
+      <div class="j-title">
+      <div class="j-1">
+        <h6>Featured Projects</h6>
+        <p>Brief details of new and popular projects. To view full listings, you will be required to
+sign up and become a member.</p>
+        
+      </div>
+      <div class="j-2">
+        <button type="button" class="btn-4">Become a Member</button>
+        
+      </div>
+    </div>
+      <div class="pro-1">
+        <img src="img/one.jpg" alt="photo">
+        <div class="pro-1-btn">
+          <button type="Submit" class="btn-5">From GBP 3600</button>
+          
+        </div>
+        <div class="pro-1-con">
+          <h2>Ontario Tower, LONDON</h2>
+          <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P>
+          
+        </div>
+        <div class="pro-1-de">
+          <h2>10% FUNDED</h2>
+          <h2>8 days left</h2>
+        </div>
+        <div class="pro-1-se">
+          <span></span>
+          
+        </div>
+        <div class="pro-1-fe">
+          <h2>See project Details <span><i class="fa fa-play"></i></span></h2>
+          
+        </div>
+        
+      </div>
+        <div class="pro-2">
+        <img src="img/two.jpg" alt="photo">
+        <div class="pro-2-btn">
+          <button type="Submit" class="btn-5">From GBP 3600</button>
+          
+        </div>
+        <div class="pro-2-con">
+          <h2>Ontario Tower, LONDON</h2>
+          <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P>
+          
+        </div>
+        <div class="pro-2-de">
+          <h2>60% FUNDED</h2>
+          <h2>8 days left</h2>
+        </div>
+        <div class="pro-2-se">
+          <span></span>
+          
+        </div>
+        <div class="pro-2-fe">
+          <h2>See project Details <span><i class="fa fa-play"></i></span></h2>
+          
+        </div>
+        
+      </div>
+      <div class="pro-3">
+        <img src="img/three.jpg" alt="photo">
+        <div class="pro-3-btn">
+          <button type="Submit" class="btn-5">From GBP 3600</button>
+          
+        </div>
+        <div class="pro-3-con">
+          <h2>Ontario Tower, LONDON</h2>
+          <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P>
+          
+        </div>
+        <div class="pro-3-de">
+          <h2>10% FUNDED</h2>
+          <h2>8 days left</h2>
+        </div>
+        <div class="pro-3-se">
+          <span></span>
+          
+        </div>
+        <div class="pro-3-fe">
+          <h2>See project Details <span><i class="fa fa-play"></i></span></h2>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+    
+  </section>
+  <section class="foot">
+    <div class="container">
+      <img src="img/bn.jpg" alt="image">
+      
+    </div>
+    
+  </section>
+  <footer class="copy">
+    <span></span>
+    <div class="copyright">
+      <p>Copyright @ 2001-2014 Cssauthor.com</p>
+      
+    </div>
+    
+  </footer>
+
+
+
+  <!--jquery lib-->
+  <!--<script type="text/javascript" src="js/jquery.min.js"></script>-->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+
+
+  <!--theme js file-->
+  <script type="text/javascript" src="js/main.js"></script>
+
+</body>
+</html>
